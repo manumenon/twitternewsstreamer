@@ -1,0 +1,14 @@
+{
+    "telegram_api_id" : "",
+    "telegram_api_hash" : "",
+    "telegram_username" : "manumenon",
+    "telegram_channel_id" : "",
+    "notify_channel" : "",
+    "mobile" : "",
+    "twitter_access_token" : "",
+    "twitter_access_token_secret" : "",
+    "twitter_consumer_key" : "",
+    "twitter_consumer_secret" : "",
+    "twitter_screen_names": [],
+    "cron": 20
+}
